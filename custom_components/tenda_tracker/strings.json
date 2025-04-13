@@ -1,0 +1,24 @@
+{
+    "title": "Tenda Wifi W30E",
+    "config": {
+      "step": {
+        "user": {
+          "description": "description",
+          "data": {
+            "host": "[%key:common::config_flow::data::host%]",
+            "password": "[%key:common::config_flow::data::password%]"
+          }
+        }
+      }
+    },
+    "options": {
+      "step": {
+        "init": {
+          "data": {
+            "host": "[%key:common::config_flow::data::host%]",
+            "password": "[%key:common::config_flow::data::password%]"
+          }
+        }
+      }
+    }
+  }

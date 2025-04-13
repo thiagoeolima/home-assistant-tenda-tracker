@@ -1,0 +1,24 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "data": {
+                    "host": "Host",
+                    "password": "Password"
+                },
+                "description": "description"
+            }
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "data": {
+                    "host": "Host",
+                    "password": "Password"
+                }
+            }
+        }
+    },
+    "title": "Tenda Wifi W30E"
+}

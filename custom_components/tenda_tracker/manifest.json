@@ -1,0 +1,12 @@
+{
+  "domain": "tenda_tracker",
+  "name": "Tenda Wifi W30E",
+  "codeowners": ["@thiagoeolima"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/thiagoeolima/home-assistant-tenda-tracker",
+  "issue_tracker": "https://github.com/thiagoeolima/home-assistant-tenda-tracker/issues",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "1.0.0"
+}

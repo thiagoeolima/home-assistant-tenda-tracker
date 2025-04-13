@@ -1,0 +1,28 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "description": "Configuração da integração",
+                "data": {
+                    "host": "Host",
+                    "username": "Utilizador",
+                    "password": "Palavra-passe",
+                    "scan_interval": "Intervalo de verificação para atualizações em segundos"
+                }
+            }
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "description": "Editar parâmetros do router.",
+                "data": {
+                    "host": "Host",
+                    "username": "Utilizador",
+                    "password": "Palavra-passe",
+                    "scan_interval": "Intervalo de verificação para atualizações em segundos"
+                }
+            }
+        }
+    }
+}
