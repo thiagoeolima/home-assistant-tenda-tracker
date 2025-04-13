@@ -1,6 +1,6 @@
 {
   "domain": "tenda_tracker",
-  "name": "Tenda Wifi W30E",
+  "name": "Tenda W30E Router Device Tracker",
   "codeowners": ["@thiagoeolima"],
   "config_flow": true,
   "dependencies": [],
