@@ -15,7 +15,7 @@ Adds device tracking support for [Tenda W30E](https://www.tendacn.com/product/ov
 For easy updates whenever a new version is released, use the [Home Assistant Community Store (HACS)](https://github.com/hacs/integration) and add the following Integration in the Settings tab:
 
 ```
-sakowicz/home-assistant-tenda-tracker
+thiagoeolima/home-assistant-tenda-tracker
 ```
 
 ## Step 2: Add Tracker to Home Assistant's Configuration
